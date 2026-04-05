@@ -155,11 +155,17 @@ The system generates:
 
 ```
 ├── data/
+│   └── loan_data.csv
+
 ├── sql/
-│   ├── schema.sql
-│   ├── queries.sql
-├── notebooks/ (optional)
+│   ├── 01_data_cleaning.sql
+│   ├── 02_feature_engineering.sql
+│   ├── 03_eda_queries.sql
+│   ├── 04_risk_scoring.sql
+│   ├── 05_loan_approval_logic.sql
+
 ├── README.md
+
 ```
 ---
 
