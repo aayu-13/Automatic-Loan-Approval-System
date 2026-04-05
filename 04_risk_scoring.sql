@@ -8,4 +8,3 @@ FROM public."Table"
 WHERE Term >= 60 
   AND MIS_Status = 'P I F'  -- "Paid in Full" (Ideal history)
 LIMIT 10;
-
