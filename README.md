@@ -153,13 +153,14 @@ The system generates:
 
 ## 📁 Project Structure
 
+```
 ├── data/
 ├── sql/
 │   ├── schema.sql
 │   ├── queries.sql
 ├── notebooks/ (optional)
 ├── README.md
-
+```
 ---
 
 ## 📬 Author
