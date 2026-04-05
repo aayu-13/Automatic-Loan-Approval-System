@@ -11,3 +11,4 @@ SELECT
     END AS approval_status
 FROM public."Table"
 LIMIT 10;
+
