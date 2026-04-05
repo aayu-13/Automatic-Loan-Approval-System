@@ -7,3 +7,4 @@ SET loan_decision_status =
         THEN 'ELIGIBLE'
         ELSE 'NOT ELIGIBLE'
     END;
+
